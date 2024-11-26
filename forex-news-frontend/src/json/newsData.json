@@ -1,0 +1,80 @@
+ [
+    {
+      "source": {
+        "id": "forex1",
+        "name": "Forex News"
+      },
+      "author": "John Doe",
+      "title": "EUR/USD Rises Amid Dollar Weakness",
+      "description": "The euro gained strength against the dollar as market sentiment turned risk-on.",
+      "url": "https://example.com/eur-usd-rises",
+      "urlToImage": "https://www.atfx.com/wp-content/uploads/2024/08/forex-news-trading-strategy.webp",
+      "publishedAt": "2024-11-25T10:00:00Z",
+      "content": "The euro rose against the US dollar on Monday, supported by improving market sentiment and ..."
+    },
+    {
+      "source": {
+        "id": "forex2",
+        "name": "Forex News"
+      },
+      "author": "Jane Smith",
+      "title": "GBP/USD Holds Steady Amid Brexit Talks",
+      "description": "The pound remains stable against the dollar as Brexit negotiations show limited progress.",
+      "url": "https://example.com/gbp-usd-steady",
+      "urlToImage": "https://wp.fxssi.com/wp-content/uploads/2020/03/high-impact-forex-news-histogram.jpg",
+      "publishedAt": "2024-11-25T11:00:00Z",
+      "content": "The GBP/USD currency pair remained steady on Tuesday as traders closely watched developments ..."
+    },
+    {
+      "source": {
+        "id": "forex3",
+        "name": "Forex News"
+      },
+      "author": "Alice Johnson",
+      "title": "USD/JPY Falls on Soft US Data",
+      "description": "The US dollar weakened against the yen after disappointing economic data from the US.",
+      "url": "https://example.com/usd-jpy-falls",
+      "urlToImage": "https://tradeflock.com/wp-content/uploads/2023/02/Forex-Trading-Understanding-the-Impact-of-Economic-Data-and-News-Releases.webp",
+      "publishedAt": "2024-11-25T12:00:00Z",
+      "content": "The US dollar fell against the Japanese yen on Thursday after the release of weaker-than-expected ..."
+    },
+    {
+      "source": {
+        "id": "forex4",
+        "name": "Forex News"
+      },
+      "author": "John Doe",
+      "title": "EUR/USD Rises Amid Dollar Weakness",
+      "description": "The euro gained strength against the dollar as market sentiment turned risk-on.",
+      "url": "https://example.com/eur-usd-rises",
+      "urlToImage": "https://www.atfx.com/wp-content/uploads/2024/08/forex-news-trading-strategy.webp",
+      "publishedAt": "2024-11-25T10:00:00Z",
+      "content": "The euro rose against the US dollar on Monday, supported by improving market sentiment and ..."
+    },
+    {
+      "source": {
+        "id": "forex5",
+        "name": "Forex News"
+      },
+      "author": "Jane Smith",
+      "title": "GBP/USD Holds Steady Amid Brexit Talks",
+      "description": "The pound remains stable against the dollar as Brexit negotiations show limited progress.",
+      "url": "https://example.com/gbp-usd-steady",
+      "urlToImage": "https://wp.fxssi.com/wp-content/uploads/2020/03/high-impact-forex-news-histogram.jpg",
+      "publishedAt": "2024-11-25T11:00:00Z",
+      "content": "The GBP/USD currency pair remained steady on Tuesday as traders closely watched developments ..."
+    },
+    {
+      "source": {
+        "id": "forex6",
+        "name": "Forex News"
+      },
+      "author": "Alice Johnson",
+      "title": "USD/JPY Falls on Soft US Data",
+      "description": "The US dollar weakened against the yen after disappointing economic data from the US.",
+      "url": "https://example.com/usd-jpy-falls",
+      "urlToImage": "https://tradeflock.com/wp-content/uploads/2023/02/Forex-Trading-Understanding-the-Impact-of-Economic-Data-and-News-Releases.webp",
+      "publishedAt": "2024-11-25T12:00:00Z",
+      "content": "The US dollar fell against the Japanese yen on Thursday after the release of weaker-than-expected ..."
+    }
+]
